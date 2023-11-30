@@ -2,7 +2,7 @@ import IMG1 from "../../assets/portfolioTextUtils.png";
 import IMG3 from "../../assets/portfolio2.png";
 import IMG4 from "../../assets/portfolio3.png";
 import IMG5 from "../../assets/portfolio4.png";
-import IMG2 from "../../assets/portfolio1.png";
+import IMG2 from "../../assets/myportfolio.png";
 
 const data = [
   {
@@ -11,14 +11,14 @@ const data = [
     title: "Text Utilities",
     github: "https://github.com/iamyazdani/text-utilities",
     demo: "https://iamyazdani.github.io/text-utilities/",
+  },
+  {
+    id: 2,
+    image: IMG2,
+    title: "My Portfolio",
+    github: "https://github.com/iamyazdani/MyPortfolio",
+    demo: "https://gulam-yazdani.netlify.app/",
   }
-  // {
-  //   id: 2,
-  //   image: IMG2,
-  //   title: "Youtube-Clone",
-  //   github: "https://github.com/medixitgogoi/youtube-clone",
-  //   demo: "https://devdixit-youtube-clone.netlify.app/",
-  // },
   // {
   //   id: 3,
   //   image: IMG3,
